@@ -66,7 +66,7 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="copyright-text">
-                                    <p>Copyright © 2024 IKO. All rights reserved.</p>
+                                    <p>Copyright © 2024 coin mining investment. All rights reserved.</p>
                                 </div>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
       'Portugal', 'Austria', 'South Africa', 'London', 'South Africa', 'Cyprus', 'Netherlands', 'Switzerland',
       'Belgium', 'Israel', 'Cyprus'
     ];
-    var listPlans = ['$5000', '$1500', '$1000', '$10,000', '$2000', '$3000', '$4000', '$600', '$700', '$2500'];
+    var listPlans = ['$500,000', '$15,000', '$10,000', '$90,000', '$200,000', '$30,000', '$4000', '$600', '$700', '$2500'];
     interval = Math.floor(Math.random() * (40000 - 8000 + 1) + 8000);
     var run = setInterval(request, interval);
 

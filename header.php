@@ -2,12 +2,12 @@
 <html class="no-js" lang="zxx">
 
 
-<!-- Mirrored from themeadapt.com/tf/iko/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 24 Apr 2024 12:34:31 GMT -->
+<!-- Mirrored from themeadapt.com/tf/iko/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 25 Apr 2024 16:52:47 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>IKO - ICO & Crypto Landing Page Template</title>
-    <meta name="description" content="IKO - ICO & Crypto Landing Page Template">
+    <title><?php echo $company_name ?></title>
+    <meta name="description" content="coin mining investment">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
@@ -60,22 +60,23 @@
                         <div class="menu-wrap">
                             <nav class="menu-nav">
                                 <div class="logo">
-                                    <a href="index-2.html"><img src="assets/img/logo/logo.png" style="height: 35px;" alt="Logo"></a>
+                                    <a href="index.php"><img src="assets/img/logo.png" style="height: 85px; border-radius:50%;" alt="Logo"></a>
                                 </div>
                                 <div class="navbar-wrap main-menu d-none d-lg-flex">
-                                    <ul class="navigation">
+                                <ul class="navigation">
                                         <li class="active menu-item-has-children"><a class="section-link" href="index.php">Home</a>
                                             <!-- <ul class="sub-menu">
                                                 <li class="active"><a href="index-2.html">ICO Investment</a></li>
                                                 <li><a href="index-3.html">Blockchain</a></li>
                                             </ul> -->
                                         </li>
-                                        <li><a href="#feature" class="section-link">Feature</a></li>
-                                        <li><a href="#roadMap" class="section-link">RoadMap</a></li>
-                                        <li class="menu-item-has-children"><a href="#">blog</a>
+                                        <li><a href="#feature" class="section-link">About Us</a></li>
+                                        <!-- <li><a href="#roadMap" class="section-link">RoadMap</a></li> -->
+                                        <li class="menu-item-has-children"><a href="serve.php">Services</a>
                                             <ul class="sub-menu">
-                                                <li><a href="blog.php">Our Blog</a></li>
-                                                <li><a href="blog-details.php">Blog Details</a></li>
+                                                <li><a href="real.php">Real Estate Investment</a></li>
+                                                <li><a href="oil.php">commidities, oil &gas investment</a></li>
+                                                <li><a href="Stock.php">Stock investment</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="contact.php">Contact</a></li>
@@ -99,10 +100,11 @@
                                                     </li>
                                                 </ul>
                                             </div>
-                                       
+                                        </li>
+                                        <li class="header-login"><a class="btn2" href="login.php">LOGIN</a></li>
                                     </ul>
                                 </div> -->
-                                <div class="mobile-nav-toggle" style="border:none !important;"><i class="fas fa-bars"></i></div>
+                                <div class="mobile-nav-toggler"><i class="fas fa-bars"></i></div>
                             </nav>
                         </div>
                     </div>

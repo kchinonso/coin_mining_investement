@@ -29,7 +29,7 @@ require "header.php";
                         <h1 class="hero-title">Putting Your Money in Product Backed Projects</h1>
                         <div class="btn-wrap">
                             <a href="contact.html" class="btn btn2" >
-                                Purchase a Token
+                                Invest
                             </a>
                             <a href="blog.html" class="btn btn-two" >
                                 Read  Documents
@@ -39,7 +39,7 @@ require "header.php";
 
                 </div>
             </div>
-            <div class="hero-countdown-wrap">
+            <!-- <div class="hero-countdown-wrap">
                 <h2 class="hero-countdown-wrap-title">ICO will start in..</h2>
                 <ul class="skill-feature_list">
                     <li><span>Value</span> of technology invested</li>
@@ -61,7 +61,7 @@ require "header.php";
                 <div class="banner-countdown-wrap">
                     <div class="coming-time" data-countdown="2024/8/29"></div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     <!--======== / Hero Section ========-->
@@ -69,7 +69,7 @@ require "header.php";
     <!--==============================
     Brand Area 2
     ==============================-->
-    <div class="brand-area2">
+    <!-- <div class="brand-area2">
         <div class="container">
             <div class="row g-0">
                 <div class="col-lg-12">
@@ -123,7 +123,7 @@ require "header.php";
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!--==============================
     Why Choose Us Area
@@ -137,9 +137,20 @@ require "header.php";
                 <div class="row gy-5">
                     <div class="col-lg-7">
                         <div class="section-title mb-0">
-                            <h2 class="title style2">Why You Choose IKO is worth buying today?</h2>
-                            <p class="sec-text">Use the window for the planned investment  and calculate the estimated <br> Iko price and your monthly dividends at a fixed time
+                            <h2 class="title style2">about coin mining investment</h2>
+                            <p class="sec-text">In the ever-evolving landscape of finance and investment, the allure of cryptocurrency has captured the attention of investors worldwide. As the digital era continues to expand, innovative opportunities emerge, offering avenues for substantial returns on investment. At coin mining investment, we pride ourselves on navigating the dynamic realm of digital assets with expertise and precision, providing our clients with lucrative opportunities for financial growth.
                             </p>
+                            <p>
+Crafting a comprehensive overview of your investment company and the potential profitability of investing in  coin mining investment requires a structured approach.:
+
+Introduction:
+
+In the ever-evolving landscape of finance and investment, the allure of cryptocurrency has captured the attention of investors worldwide. As the digital era continues to expand, innovative opportunities emerge, offering avenues for substantial returns on investment. At Coin Mining Investment, we pride ourselves on navigating the dynamic realm of digital assets with expertise and precision, providing our clients with lucrative opportunities for financial growth.
+
+About Coin Mining Investment:
+
+Established with a vision to revolutionize the investment industry, Coin Mining Investment stands at the forefront of innovative financial solutions. With a team of seasoned experts and a commitment to excellence, we specialize in identifying and capitalizing on emerging market trends, particularly within the realm of cryptocurrency.</p>
+<p>At Coin Mining Investment, we understand the importance of strategic investment decisions and the value of staying ahead of the curve. Our comprehensive approach combines in-depth market research, cutting-edge technology, and a meticulous risk management strategy to deliver optimal results for our clients.</p>
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -157,13 +168,13 @@ require "header.php";
                             <p class="price">50,000 $</p>
                         </div>
                         <div class="quantity">
-                            <h5 class="title">Quantity Iko</h5>
-                            <p class="price">500,000 Iko</p>
+                            <h5 class="title">Quantity </h5>
+                            <p class="price">500,000 </p>
                         </div>
                     </div>
                     <ul class="wcu-price-progress-wrap">
                         <li>
-                            <h6 class="progress-wrap-title">Expected FOX price</h6>
+                            <h6 class="progress-wrap-title">Expected price</h6>
                             <p class="progress-wrap-text">0.36 $</p>
                             <div class="skill-feature">
                                 <div class="progress">
@@ -177,7 +188,7 @@ require "header.php";
                             </div>
                         </li>
                         <li>
-                            <h6 class="progress-wrap-title">Expected FOX price</h6>
+                            <h6 class="progress-wrap-title">Expected  price</h6>
                             <p class="progress-wrap-text">0.36 $</p>
                             <div class="skill-feature">
                                 <div class="progress">
@@ -192,7 +203,7 @@ require "header.php";
                         </li>
                         <li>
                             <h6 class="progress-wrap-title">Calculation time</h6>
-                            <p class="progress-wrap-text">Q3 2020</p>
+                            <p class="progress-wrap-text">Q3 2015</p>
                             <div class="skill-feature">
                                 <div class="progress">
                                     <div class="progress-bar" style="width: 40%">
@@ -250,29 +261,24 @@ require "header.php";
             <div class="row">
                 <div class="col-xl-6">
                     <div class="section-title mb-45">
-                        <h2 class="title style2">Introducing Iko Crypto</h2>
-                        <p class="sec-text">True wealth in the world of virtual currencies</p>
+                        <h2 class="title style2">Working process of investment success</h2>
+                        <p class="sec-text">these are some of the advantages of investing with coin mining investment</p>
                     </div>
                 </div>
             </div>
             <div class="row justify-content-between">
                 <div class="col-xl-4">
                     <div class="intro-wrap mt-xl-4">
-                        <h6 class="intro-wrap-title">Who We Are</h6>
-                        <p class="intro-wrap-text">Iko is a 100% pre-scratched cryotome
-                            There are 1 Million Minutes, and 60% of them can be yours (60% - ICO)
-                            Utility & security token
-                            (applies to all transactions and gives a monthly dividend)</p>
+                        <h6 class="intro-wrap-title">Potential for High Returns:</h6>
+                        <p class="intro-wrap-text">Historically, cryptocurrency mining has yielded substantial returns for early adopters and savvy investors. By harnessing the power of cutting-edge mining technology, investors can capitalize on the growing demand for NA coin and potentially reap significant profits over time.</p>
                     </div>
                     <div class="intro-wrap">
-                        <h6 class="intro-wrap-title">Wealth?</h6>
-                        <p class="intro-wrap-text">Users with Iko have lower system fees
-                            Price growth is gathered by demand for Unifox technologies. You own a stake in an international corporation. You are part of the community</p>
+                        <h6 class="intro-wrap-title">Diversification of Investment Portfolio:</h6>
+                        <p class="intro-wrap-text">Diversification is key to mitigating risk and maximizing returns in any investment portfolio. By allocating a portion of your investment capital to NA coin mining, you can diversify your portfolio and capitalize on the unique opportunities presented by the burgeoning cryptocurrency market.</p>
                     </div>
                     <div class="intro-wrap">
-                        <h6 class="intro-wrap-title">True Riches?</h6>
-                        <p class="intro-wrap-text">The underlying growth attracts investors
-                            The whole community is interested in growing the Iko prize. The company is planning to continue to expand the project, and it will cost the top up</p>
+                        <h6 class="intro-wrap-title">Hedging Against Inflation:</h6>
+                        <p class="intro-wrap-text">With traditional fiat currencies susceptible to inflationary pressures and central bank manipulation, cryptocurrencies offer a viable hedge against devaluation. NA coin, with its finite supply and decentralized nature, provides investors with a hedge against inflationary risks and economic uncertainty.</p>
                     </div>
                 </div>
                 <div class="col-xl-6">
@@ -281,16 +287,8 @@ require "header.php";
                     </div>
                     <div class="intro-wrap mt-50">
                         <h6 class="intro-wrap-title">Our Mission & Vission</h6>
-                        <p class="intro-wrap-text">Iko is a 100% pre-scratched cryptome
-                            There are 1 Million Minutes, and 60% of them can be yours (60% - ICO)
-                            Utility & security token
-                            (applies to all transactions and gives a monthly dividend)</p>
-                        <p class="intro-wrap-text mt-40">Iko is a 100% pre-scratched cryptome
-                            There are 1 Million Minutes, and 60% of them can be yours (60% - ICO)
-                            Utility & security token
-                            (applies to all transactions and gives a monthly dividend)</p>
-                        <p class="intro-wrap-text mt-40">Iko is a 100% pre-scratched cryptome
-                            There are 1 Million Minutes, and 60% of them can be yours (60% - ICO)</p>
+                        <p class="intro-wrap-text">Crafting a comprehensive overview of your investment company and the potential profitability of investing in Coin mining investment requires a structured approach</p>
+                        <p class="intro-wrap-text mt-40">Established with a vision to revolutionize the investment industry, Coin mining investment stands at the forefront of innovative financial solutions. With a team of seasoned experts and a commitment to excellence, we specialize in identifying and capitalizing on emerging market trends, particularly within the realm of cryptocurrency.</p>
                     </div>
                 </div>
             </div>
@@ -300,7 +298,7 @@ require "header.php";
     <!--==============================
         RoadMap Area 2
     ==============================-->
-    <div class="pt-130 pb-140 overflow-hidden bg-black2 position-relative z-index-common" id="roadMap">
+    <!-- <div class="pt-130 pb-140 overflow-hidden bg-black2 position-relative z-index-common" id="roadMap">
         <div class="bg-gradient-2">
             <img src="assets/img/update/bg/bg-gradient1-1.jpg" alt="img">
         </div>
@@ -370,12 +368,12 @@ require "header.php";
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!--==============================
     Invest Area
     ==============================-->
-    <div class="pt-130 overflow-hidden">
+    <!-- <div class="pt-130 overflow-hidden">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-7">
@@ -419,568 +417,12 @@ require "header.php";
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!--==============================
     Team Area
     ==============================-->
-    <div class="pt-130 pb-140 overflow-hidden position-relative z-index-common">
-        <div class="bg-gradient-3">
-            <img src="assets/img/update/bg/bg-gradient1-1.jpg" alt="img">
-        </div>
-
-        <!--==============================
-        Founder Area
-        ==============================-->
-        <div class="pb-110">
-            <div class="container">
-                <div class="section-title text-center mb-50">
-                    <h2 class="title style2">Active founders</h2>
-                </div>
-                <div class="row gy-4 justify-content-center">
-                    <div class="col-lg-6">
-                        <div class="founder-card">
-                            <div class="founder-card-img">
-                                <img src="assets/img/update/team/founder-1-1.png" alt="img">
-                            </div>
-                            <div class="founder-card-details">
-                                <h3 class="founder-card-title">Eleanor Pena</h3>
-                                <p class="founder-card-desig">Founder & CEO</p>
-                                <div class="social-btn">
-                                    <a href="https://www.linkedin.com/">
-                                        <i class="fab fa-linkedin"></i>
-                                    </a>
-                                    <a href="#">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                                            <path
-                                                d="M10.0596 7.34522L15.8879 0.570312H14.5068L9.44607 6.45287L5.40411 0.570312H0.742188L6.85442 9.46578L0.742188 16.5703H2.12338L7.4676 10.3581L11.7362 16.5703H16.3981L10.0593 7.34522H10.0596ZM8.16787 9.54415L7.54857 8.65836L2.62104 1.61005H4.74248L8.71905 7.29827L9.33834 8.18405L14.5074 15.5779H12.386L8.16787 9.54449V9.54415Z"
-                                                fill="currentColor"></path>
-                                        </svg>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <i class="fab fa-youtube"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="founder-card">
-                            <div class="founder-card-img">
-                                <img src="assets/img/update/team/founder-1-2.png" alt="img">
-                            </div>
-                            <div class="founder-card-details">
-                                <h3 class="founder-card-title">William Xeno</h3>
-                                <p class="founder-card-desig">Founder & CEO</p>
-                                <div class="social-btn">
-                                    <a href="https://www.linkedin.com/">
-                                        <i class="fab fa-linkedin"></i>
-                                    </a>
-                                    <a href="#">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
-                                            <path
-                                                d="M10.0596 7.34522L15.8879 0.570312H14.5068L9.44607 6.45287L5.40411 0.570312H0.742188L6.85442 9.46578L0.742188 16.5703H2.12338L7.4676 10.3581L11.7362 16.5703H16.3981L10.0593 7.34522H10.0596ZM8.16787 9.54415L7.54857 8.65836L2.62104 1.61005H4.74248L8.71905 7.29827L9.33834 8.18405L14.5074 15.5779H12.386L8.16787 9.54449V9.54415Z"
-                                                fill="currentColor"></path>
-                                        </svg>
-                                    </a>
-                                    <a href="https://youtube.com/">
-                                        <i class="fab fa-youtube"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="text-center">
-                        <div class="team-tab-btn filter-menu-active">
-                            <button data-filter=".cat1" class="active" type="button">Advisory Team</button>
-                            <button data-filter=".cat2" type="button">Management Team</button>
-                            <button data-filter=".cat3" type="button">Marketing Team</button>
-                        </div>
-                    </div>
-                    <div class="filter-active-cat1">
-                        <div class="team-tab-content filter-item cat1">
-                            <ul class="team-tab-list">
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-1.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-2.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Albert Flores</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-3.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Devon Lane</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-4.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-5.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-6.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-7.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Albert Flores</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-8.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Devon Lane</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-9.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-10.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="team-tab-content filter-item cat2">
-                            <ul class="team-tab-list">
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-4.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-3.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Devon Lane</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-5.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-6.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-7.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Albert Flores</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-2.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Albert Flores</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-8.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Devon Lane</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-1.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-9.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-10.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="team-tab-content filter-item cat3">
-                            <ul class="team-tab-list">
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-1.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-2.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Albert Flores</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-3.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Devon Lane</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-4.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-5.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-6.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-7.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Albert Flores</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-8.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Devon Lane</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-9.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="team-card">
-                                        <div class="team-card_img">
-                                            <img src="assets/img/update/team/team-1-10.png" alt="Team Image">
-                                            <div class="social-btn">
-                                                <a href="https://www.linkedin.com/">
-                                                    <i class="fab fa-linkedin"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="team-card_content">
-                                            <h3 class="team-card_title"><a href="#">Jacob Jones</a></h3>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
 
     <!--==============================
     Partner Area
@@ -988,64 +430,73 @@ require "header.php";
     <div class="pt-130 bg-black2">
         <div class="container">
             <div class="section-title text-center mb-50">
-                <h2 class="title style2">Our partners</h2>
+                <h2 class="title style2">Testimonials</h2>
+                <p>See What Our Client's Say About Our Work</p>
             </div>
+
             <div class="slider-area">
                 <div class="row partner-slider1">
-                    <div class="col-lg-4">
-                        <div class="partner-card">
-                            <div class="partner-card-img">
-                                <img src="assets/img/update/client/client-1-4.svg" alt="img">
+                    <div class="col-lg-4">  <div class="partner-card-img">
+                                <img src="assets/img/blog/avatar.png" alt="img">
                             </div>
+                        <div class="partner-card">
+                          
                             <p class="partner-card-text">Stable crypto currency and an important part of the UniFox ecosystem</p>
-                            <a class="btn btn3" href="blog.html">EXPLORE</a>
+                            <!-- <a class="btn btn3" href="blog.html">EXPLORE</a> -->
                         </div>
                     </div>
                     <div class="col-lg-4">
-                        <div class="partner-card">
-                            <div class="partner-card-img">
-                                <img src="assets/img/update/client/client-1-2.svg" alt="img">
+                    <div class="partner-card-img">
+                                <img src="assets/img/blog/blog_author03.png" alt="img">
                             </div>
+                        <div class="partner-card">
+                          
                             <p class="partner-card-text">Online exchanger, specializing in the exchange of private
                                 individuals</p>
-                            <a class="btn btn3" href="blog.html">EXPLORE</a>
+                            <!-- <a class="btn btn3" href="blog.html">EXPLORE</a> -->
                         </div>
                     </div>
                     <div class="col-lg-4">
+                    <div class="partner-card-img">
+                    <img src="assets/img/blog/blog_author04.png" alt=""> </div>
                         <div class="partner-card">
-                            <div class="partner-card-img">
-                                <img src="assets/img/update/client/client-1-5.svg" alt="img">
-                            </div>
+                          
                             <p class="partner-card-text">A company that provides all IT services within the ecosystem of UniFox</p>
-                            <a class="btn btn3" href="blog.html">EXPLORE</a>
+                            <!-- <a class="btn btn3" href="blog.html">EXPLORE</a> -->
                         </div>
                     </div>
                     <div class="col-lg-4">
+                    <div class="partner-card-img">
+                    <img src="assets/img/blog/blog_author01.png" alt=""> </div>
                         <div class="partner-card">
-                            <div class="partner-card-img">
-                                <img src="assets/img/update/client/client-1-4.svg" alt="img">
-                            </div>
+                            
                             <p class="partner-card-text">Stable crypto currency and an important part of the UniFox ecosystem</p>
-                            <a class="btn btn3" href="blog.html">EXPLORE</a>
+                            <!-- <a class="btn btn3" href="blog.html">EXPLORE</a> -->
                         </div>
                     </div>
                     <div class="col-lg-4">
+                    <div class="partner-card-img">
+                    <img src="assets/img/blog/blog_masonry02.jpg" alt=""> </div>
+                            <style>
+        .partner-card-img img{
+            width: 80px  !important;
+            height: 80px !important;
+            border-radius: 130px !important;
+        }
+    </style>
                         <div class="partner-card">
-                            <div class="partner-card-img">
-                                <img src="assets/img/update/client/client-1-2.svg" alt="img">
-                            </div>
+                           
                             <p class="partner-card-text">Online exchanger, specializing in the exchange of private
                                 individuals</p>
-                            <a class="btn btn3" href="blog.html">EXPLORE</a>
+                            <!-- <a class="btn btn3" href="blog.html">EXPLORE</a> -->
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="partner-card">
-                            <div class="partner-card-img">
-                                <img src="assets/img/update/client/client-1-5.svg" alt="img">
+                    <div class="col-lg-4"> <div class="partner-card-img"><img src="assets/img/blog/blog_masonry02.jpg" alt="">
                             </div>
+                        <div class="partner-card">
+                           
                             <p class="partner-card-text">A company that provides all IT services within the ecosystem of UniFox</p>
-                            <a class="btn btn3" href="blog.html">EXPLORE</a>
+                            <!-- <a class="btn btn3" href="blog.html">EXPLORE</a> -->
                         </div>
                     </div>
                 </div>
@@ -1063,7 +514,7 @@ require "header.php";
         <div class="event-area">
             <div class="container">
                 <div class="section-title text-center mb-50">
-                    <h2 class="title style2">Join Events for meet us</h2>
+                    <h2 class="title style2">our Events</h2>
                 </div>
                 <div class="row gy-60 gx-30 justify-content-center">
                     <div class="col-lg-3 col-md-6">
@@ -1085,12 +536,12 @@ require "header.php";
                                     </a>
                                     <a href="#">
                                         <i class="far fa-clock"></i>
-                                        August 17, 2024
+                                        August 17, 2016
                                     </a>
                                 </div>
-                                <a href="#" class="btn btn3">
+                                <!-- <a href="#" class="btn btn3">
                                     JOIN US
-                                </a>
+                                </a> -->
                             </div>
                         </div>
                     </div>
@@ -1113,12 +564,12 @@ require "header.php";
                                     </a>
                                     <a href="#">
                                         <i class="far fa-clock"></i>
-                                        June 12, 2024
+                                        June 12, 2015
                                     </a>
                                 </div>
-                                <a href="#" class="btn btn3">
+                                <!-- <a href="#" class="btn btn3">
                                     JOIN US
-                                </a>
+                                </a> -->
                             </div>
                         </div>
                     </div>
@@ -1141,12 +592,12 @@ require "header.php";
                                     </a>
                                     <a href="#">
                                         <i class="far fa-clock"></i>
-                                        July 05, 2024
+                                        July 05, 2021
                                     </a>
                                 </div>
-                                <a href="#" class="btn btn3">
+                                <!-- <a href="#" class="btn btn3">
                                     JOIN US
-                                </a>
+                                </a> -->
                             </div>
                         </div>
                     </div>
@@ -1158,7 +609,7 @@ require "header.php";
                                 </a>
                             </div>
                             <div class="event-card-content">
-                                <h4 class="event-card-title"><a href="contact.html">Economy ICO 2024</a></h4>
+                                <h4 class="event-card-title"><a href="contact.php">Economy</a></h4>
                                 <div class="event-meta">
                                     <a href="#">
                                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1169,12 +620,12 @@ require "header.php";
                                     </a>
                                     <a href="#">
                                         <i class="far fa-clock"></i>
-                                        September 09, 2024
+                                        September 09, 2022
                                     </a>
                                 </div>
-                                <a href="#" class="btn btn3">
+                                <!-- <a href="#" class="btn btn3">
                                     JOIN US
-                                </a>
+                                </a> -->
                             </div>
                         </div>
                     </div>
@@ -1197,12 +648,12 @@ require "header.php";
                                     </a>
                                     <a href="#">
                                         <i class="far fa-clock"></i>
-                                        September 14, 2024
+                                        September 14, 2020
                                     </a>
                                 </div>
-                                <a href="#" class="btn btn3">
+                                <!-- <a href="#" class="btn btn3">
                                     JOIN US
-                                </a>
+                                </a> -->
                             </div>
                         </div>
                     </div>
@@ -1214,7 +665,7 @@ require "header.php";
                                 </a>
                             </div>
                             <div class="event-card-content">
-                                <h4 class="event-card-title"><a href="contact.html">Blockchain & bitcoin</a></h4>
+                                <h4 class="event-card-title"><a href="contact.php">Blockchain & bitcoin</a></h4>
                                 <div class="event-meta">
                                     <a href="#">
                                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1225,12 +676,12 @@ require "header.php";
                                     </a>
                                     <a href="#">
                                         <i class="far fa-clock"></i>
-                                        August 14, 2024
+                                        August 14, 2019
                                     </a>
                                 </div>
-                                <a href="#" class="btn btn3">
+                                <!-- <a href="#" class="btn btn3">
                                     JOIN US
-                                </a>
+                                </a> -->
                             </div>
                         </div>
                     </div>
@@ -1242,7 +693,7 @@ require "header.php";
                                 </a>
                             </div>
                             <div class="event-card-content">
-                                <h4 class="event-card-title"><a href="contact.html">Money conference</a></h4>
+                                <h4 class="event-card-title"><a href="contact.php">Money conference</a></h4>
                                 <div class="event-meta">
                                     <a href="#">
                                         <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1253,12 +704,12 @@ require "header.php";
                                     </a>
                                     <a href="#">
                                         <i class="far fa-clock"></i>
-                                        May 24, 2024
+                                        May 24, 2016
                                     </a>
                                 </div>
-                                <a href="#" class="btn btn3">
+                                <!-- <a href="#" class="btn btn3">
                                     JOIN US
-                                </a>
+                                </a> -->
                             </div>
                         </div>
                     </div>
@@ -1281,7 +732,7 @@ require "header.php";
                                     </a>
                                     <a href="#">
                                         <i class="far fa-clock"></i>
-                                        May 24, 2024
+                                        May 24, 2018
                                     </a>
                                 </div>
                                 <a href="#" class="btn btn3">
@@ -1297,7 +748,7 @@ require "header.php";
         <!--==============================
         Press CTA Area
         ==============================-->
-        <div class="press-cta-area pt-130">
+        <!-- <div class="press-cta-area pt-130">
             <div class="container">
                 <div class="section-title text-center mb-50">
                     <h2 class="title style2">Press us</h2>
@@ -1347,7 +798,7 @@ require "header.php";
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 
      <!--==============================

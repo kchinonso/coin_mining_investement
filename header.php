@@ -1,3 +1,7 @@
+<?php
+$company_name = "Coin mining Investement";
+?>
+
 <!doctype html>
 <html class="no-js" lang="zxx">
 

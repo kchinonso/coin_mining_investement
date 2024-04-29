@@ -11,11 +11,11 @@
                                     <h4 class="fw-title">Usefull Links</h4>
                                     <div class="footer-link">
                                         <ul class="list-wrap">
-                                            <li><a href="contact.html">Contact us</a></li>
-                                            <li><a href="contact.html">How it Works</a></li>
-                                            <li><a href="contact.html">Create</a></li>
-                                            <li><a href="contact.html">Explore</a></li>
-                                            <li><a href="contact.html">Terms & Services</a></li>
+                                            <li><a href="contact.php">Contact us</a></li>
+                                            <li><a href="about.php">About us</a></li>
+                                            <li><a href="#">Blog</a></li>
+                                            <!-- <li><a href="contact.html">Explore</a></li> -->
+                                            <!-- <li><a href="contact.html">Terms & Services</a></li> -->
                                         </ul>
                                     </div>
                                 </div>
@@ -25,11 +25,11 @@
                                     <h4 class="fw-title">SOLUTIONS</h4>
                                     <div class="footer-link">
                                         <ul class="list-wrap">
-                                            <li><a href="contact.html">Token Suite</a></li>
-                                            <li><a href="contact.html">Ecosystem</a></li>
+                                            <!-- <li><a href="contact.html">Token Suite</a></li> -->
+                                            <li><a href="contact.html">Services</a></li>
                                             <li><a href="contact.html">Investment</a></li>
-                                            <li><a href="contact.html">Portal</a></li>
-                                            <li><a href="contact.html">Tokenization</a></li>
+                                            <!-- <li><a href="contact.html">Portal</a></li>
+                                            <li><a href="contact.html">Tokenization</a></li> -->
                                         </ul>
                                     </div>
                                 </div>
@@ -39,17 +39,17 @@
                                     <h4 class="fw-title">Usefull Links</h4>
                                     <div class="footer-link">
                                         <ul class="list-wrap">
-                                            <li><a href="contact.html">Help Center</a></li>
+                                            <!-- <li><a href="contact.html">Help Center</a></li>
                                             <li><a href="contact.html">Partners</a></li>
-                                            <li><a href="contact.html">Suggestions</a></li>
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="contact.html">Newsletters</a></li>
+                                            <li><a href="contact.html">Suggestions</a></li> -->
+                                            <li><a href="register.php">Register</a></li>
+                                            <li><a href="login.php">Login</a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-sm-8">
-                                <div class="footer-widget">
+                                <!-- <div class="footer-widget">
                                     <h4 class="fw-title">Subscribe Newsletter</h4>
                                     <div class="footer-newsletter">
                                         <p>Exerci tation ullamcorper suscipit lobortis nisl aliquip ex ea commodo</p>
@@ -58,7 +58,7 @@
                                             <button type="submit"><i class="fas fa-paper-plane"></i></button>
                                         </form>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
